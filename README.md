@@ -714,5 +714,6 @@ Implement any of these for **extra credit**:
 - User behavior insights
 - Crash reporting (Crashlytics)
 
+---
 
 **Good luck programming!**
